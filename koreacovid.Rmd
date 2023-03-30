@@ -52,7 +52,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+Looking at the table above, it shows that the results consisted of there being 56% of females alive with 44% of the males being alive. This left us with around 36% of the female populating dying and 64% of the male population dying. 
 
 ## Inferential results 
 
