@@ -46,6 +46,12 @@ Looking at the bar graph above, we can see that there were more males dying over
 
   
 ## Numerical results
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
 
 
 ## Inferential results 
