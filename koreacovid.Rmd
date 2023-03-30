@@ -34,9 +34,11 @@ state of a patient must be died or alive - we adjust that as well
 
 ## Graphical results - use ggplot commands to do this  
 
+```{r}
+barchartGC(~result + Sex, data= kRdata)
+barchartGC(~result + Sex,data= kRdata, type="percent")
 
-
-  
+```
 
 
 
