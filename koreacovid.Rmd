@@ -40,7 +40,7 @@ barchartGC(~result + Sex,data= kRdata, type="percent")
 
 ```
 
-
+Looking at the bar graph above, we can see that there were more males dying over the amount of females. The percentage for the males alive is lower than the percentage of females alive. Looking at the frequency of the populations, we see that overall females have a higher rate of survival compared to the males rate of survival from this experiment. 
 
 
 
